@@ -57,7 +57,7 @@ git clone https://github.com/ahmadnadeem786/Employee_Mana_Sys.git
 2. Navigate to the frontend directory:
 
 ```bash
-cd Employee_Mana_Sys/front
+cd ems
 ```
 
 3. Install the dependencies:
